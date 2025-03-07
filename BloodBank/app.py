@@ -12,6 +12,7 @@ from datetime import datetime
 app = Flask(__name__)
 app.secret_key = "your_secret_key" #Needed for flash msgs
 
+#first_commit
 
 # db_config = {
 #     'host': 'database-bloodbank.crqmssgockvo.ap-south-1.rds.amazonaws.com',
